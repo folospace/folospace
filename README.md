@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @folospace
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning golang and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
