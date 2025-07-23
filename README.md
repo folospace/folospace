@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @folospace
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning golang and flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a golang developer
+- 💞️ worked on website/app backend
+- 🌱 interested in game developing
 
 <!---
 folospace/folospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
